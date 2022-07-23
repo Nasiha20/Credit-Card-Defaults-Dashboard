@@ -1,5 +1,6 @@
 # Credit-Card-Defaults-Dashboard
 
+![image](https://user-images.githubusercontent.com/54328466/180609456-32c6b9da-0cd7-48a7-9a32-4e39c8617bb9.png)
  
 
 Introduction:
